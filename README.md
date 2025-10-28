@@ -99,3 +99,6 @@ L.#.L..#..
 At this point, something interesting happens: the chaos stabilizes and further applications of these rules cause no seats to change state! Once people stop moving around, you count 37 occupied seats.
 
 Simulate your full seating area by applying the seating rules repeatedly until no seats change state. How many seats end up occupied? You can import the full starting seating situation from `seats.py` as `SEATS_FULL`.
+
+## Bonus! If you are so cool.
+Visualize the entire process as a GImage that is updated on a timer each generation. Maybe add a label to show which generation is currently being shown.
